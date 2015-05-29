@@ -1,0 +1,5 @@
+alias up="sudo apt-get update"
+alias ug="sudo apt-get upgrade"
+alias cn="ping -c3 www.google.com"
+alias nr="sudo service network-manager restart"
+alias kups="sudo killall unity-panel-service"
